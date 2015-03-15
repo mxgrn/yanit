@@ -29,6 +29,7 @@ gem 'netzke-testing', '~> 0.12.0.beta'
 
 gem 'forgery'
 gem 'faker'
+gem 'whenever', :require => false
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
