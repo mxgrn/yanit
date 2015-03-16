@@ -6,6 +6,13 @@ Yanit is a demo application that illustrates usage of [Netzke](http://netzke.org
 
 This application is deployed on [Heroku](http://yanit.netzke.org) - try it out live.
 
+## Dependencies
+
+* Rails 4.2
+* Ext JS 5.1
+* Ruby 2.2
+* Netzke 0.12
+
 ## Installation
 
 * Create your database.yml
@@ -18,7 +25,7 @@ Have fun!
 
 ---
 
-(c) 2015 [Max Gorin](http://twitter.com/mxgrn)
+© 2015 [Max Gorin](http://twitter.com/mxgrn)
 
 Released under the MIT license **except for**:
 
