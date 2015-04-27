@@ -23,9 +23,7 @@ gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
-gem 'netzke-core', '~> 0.12.0.rc1'
-gem 'netzke-basepack', '~> 0.12.0.rc1'
-gem 'netzke-testing', '~> 0.12.0.beta'
+gem 'netzke', '~> 0.12.0'
 
 gem 'forgery'
 gem 'faker'
