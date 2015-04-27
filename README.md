@@ -15,7 +15,7 @@ This application is deployed on [Heroku](http://yanit.netzke.org) - try it out l
 
 ## Installation
 
-* Create your database.yml
+* Create your database.yml (see database.yml.sample)
 * bundle install
 * rake db:setup
 
